@@ -1,0 +1,12 @@
+
+*.swp
+*~
+
+
+node_modules/
+
+
+config.ini
+
+.idea/
+.vscode/
