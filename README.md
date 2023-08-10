@@ -1,2 +1,2 @@
 # git_project
-Проет для домашки skypro
+Проект для домашки skypro
